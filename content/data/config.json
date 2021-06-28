@@ -1,0 +1,91 @@
+{
+    "title": "Saugat Rimal",
+    "path_prefix": "/",
+    "color_scheme": "light",
+    "accent_color": "blue",
+    "header": {
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Timeline",
+                "style": "link",
+                "new_window": true,
+                "url": "https://timeline.saugatreemal.engineer/"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            },
+            {
+                "label": "Resume",
+                "style": "button",
+                "icon": "dribbble",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action",
+                "url": "https://www.saugatreemal.engineer/resume.pdf"
+            }
+        ],
+        "title": "Saugat"
+    },
+    "footer": {
+        "content": "&copy; Saugat Rimal. All rights reserved. Created by <a href=\"https://www.saugatrimal.com.np/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Saugat With ❤️</a>",
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/saugatrimal60",
+                "style": "icon",
+                "icon": "twitter",
+                "new_window": true
+            },
+            {
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action",
+                "url": "https://www.facebook.com/saugatrimal.pro/"
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/saugatrimal60",
+                "style": "icon",
+                "icon": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Dribbble",
+                "url": "https://github.com/saugat-rimal",
+                "style": "icon",
+                "icon": "github",
+                "new_window": true
+            },
+            {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/saugatrimal",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            }
+        ]
+    },
+    "domain": "https://blog.saugatreemal.engineer/",
+    "favicon": "/images/unique-mango.png"
+}
